@@ -1,0 +1,6 @@
+Pickup Location,Pickup Date,Pickup Time,Drop Off Location,Drop Off Date,Drop Off Time,Column,Column [1],Column [2],Column [3]
+TPA,03/20/2017,Noon,TPA,03/27/2017,Noon,,,,
+MCO,03/27/2017,1:00PM,JFK,04/03/2017,1:00PM,,,,
+MIA,04/03/2017,5:00PM,MCO,04/10/207,5:00PM,,,,
+FLL,04/10/2017,7:00PM,JAX,04/17/2017,7:00PM,,,,
+PBI,04/17/2017,10:00PM,MIA,,10:00PM,,,,
